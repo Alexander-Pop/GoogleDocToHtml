@@ -2,12 +2,12 @@
 
  1. Open your Google Doc and go to Tools menu, select Script Editor. You
     should see a new window open with a nice code editor. 
- 2. Copy and paste the code from: [here][1]
+ 2. Copy and paste the code from: [here][1], Save.
  3. Then from the "Select Editor" menu, choose ConvertGoogleDocToCleanHtml
  4. Click the play button to run the script. 
  5. You will get an email containing the HTML output of
     the Google Doc with inline images.
- 6. You can easily forward that email to anyone or copy and paste in a        Wordpress post.
+ 6. You can easily forward that email to anyone or copy and paste in a        CMS post.
  
 
   [1]: https://github.com/Alexander-Pop/GoogleDocToHtml/blob/master/code.js
