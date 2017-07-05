@@ -10,4 +10,4 @@
  6. You can easily forward that email to anyone or copy and paste in a        Wordpress post.
  
 
-  [1]: https://github.com/Alexander-Pop/GoogleDocToHtml/master/code.js
+  [1]: https://github.com/Alexander-Pop/GoogleDocToHtml/blob/master/code.js
